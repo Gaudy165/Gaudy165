@@ -71,7 +71,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" height="40" alt="gmail logo" />
   </a>
   
-  <a href="https://linkedin.com/in/aditya-gaudy-mardiono" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-gaudy-mardiono-44318a328/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="90" height="40" alt="linkedin logo" />
   </a>
 
