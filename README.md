@@ -63,15 +63,15 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/aditya.gaudy/" target="_blank">
+  <a href="https://www.instagram.com/aditya.gaudy/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="90" height="40" alt="instagram logo" />
   </a>
   
-  <a href="mailto:adityagaudy31@gmail.com" target="_blank">
+  <a href="mailto:adityagaudy31@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" height="40" alt="gmail logo" />
   </a>
   
-  <a href="https://www.linkedin.com/in/aditya-gaudy-mardiono-44318a328/" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-gaudy-mardiono-44318a328/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="90" height="40" alt="linkedin logo" />
   </a>
 
