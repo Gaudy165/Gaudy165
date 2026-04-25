@@ -1,4 +1,4 @@
-# Hi, I'm Aditya Gaudy 👋
+# Hi, I'm Aditya Gaudy Mardiono👋
 
 I'm a **Frontend Developer** based in Indonesia with 3 years of experience building clean, responsive, and user-friendly web interfaces. I'm passionate about crafting intuitive UI and delivering high-quality web applications for real-world use cases.
 
