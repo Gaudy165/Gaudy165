@@ -46,7 +46,7 @@ I'm a **Frontend Developer** based in Indonesia with 3 years of experience build
 ## 📬 Get in Touch
 
 - 🌐 Portfolio: [gaudy.my.id](https://gaudy.my.id)
-- 💼 LinkedIn: [linkedin.com/in/aditya-gaudy-mardiono](https://www.linkedin.com/in/adityagaudy)
+- 💼 LinkedIn: [linkedin.com/in/adityagaudy](https://www.linkedin.com/in/adityagaudy)
 - 📧 Email: adityagaudy31@gmail.com
 
 ---
