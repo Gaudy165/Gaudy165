@@ -1,78 +1,54 @@
-<div align="center">
-  <img height="300" src="image/writing-code.png"  />
-</div>
+# Hi, I'm Aditya Gaudy 👋
 
-<h1 align="center">Hi there! I'm Aditya 👋🏼</h1>
+I'm a **Frontend Developer** based in Indonesia with 3 years of experience building clean, responsive, and user-friendly web interfaces. I'm passionate about crafting intuitive UI and delivering high-quality web applications for real-world use cases.
 
 ---
 
-## 🙋 About Me
-<p align="center">
-  Hi, I'm Aditya Gaudy Mardiono.<br>
-  I'm student at SMKN 1 Purwosari, a curious learner and passionate about tech, especially in web and mobile development.<br>
-  Still on my journey, I'm always open to learn, grow, and connect with others.<br><br>
-  <strong>Let's build something awesome together!</strong> 🚀
-</p>
+## 🚀 What I'm Working On
+
+- Building and improving my **personal portfolio** at [gaudy.my.id](https://gaudy.my.id)
+- Exploring **AI-powered web development** and modern frontend technologies
+- Continuously sharpening my skills in **React**, **Next.js**, and **TypeScript**
 
 ---
 
-## 💻 Languages & Tools
+## 🛠️ Tools & Technologies
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="35" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="35" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="35" />
-  <img src="https://skillicons.dev/icons?i=vite" height="35" />
-</div>
+**Languages**
 
----
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-## 📊 Stats
+**Frameworks & Libraries**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaudy165&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaudy165&layout=compact&langs_count=5&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=Gaudy165&mode=daily&theme=tokyonight&hide_border=true&border_radius=12" height="150" />
-</div>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
----
+**Design Tools**
 
-## 💬 Let's Talk
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white)
 
-<div align="center">
-  <a href="https://www.instagram.com/aditya.gaudy/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" /></a>
-  <a href="mailto:adityagaudy31@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" /></a>
-  <a href="https://www.linkedin.com/in/aditya-gaudy-mardiono-44318a328/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" /></a>
-</div>
+**Developer Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-## 🕹 Play with Me
+## 📬 Get in Touch
 
-<img src="https://raw.githubusercontent.com/Gaudy165/Gaudy165/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="image/pacman-contributions.svg"/>
+- 🌐 Portfolio: [gaudy.my.id](https://gaudy.my.id)
+- 💼 LinkedIn: [linkedin.com/in/aditya-gaudy-mardiono](https://www.linkedin.com/in/aditya-gaudy-mardiono-44318a328)
+- 📧 Email: adityagaudy31@gmail.com
 
 ---
 
-## 🎧 Currently Vibing to
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31lsphq47wdvajxmnr7kt4gpenpu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lsphq47wdvajxmnr7kt4gpenpu&count=3&width=500" alt="Spotify recently played" />
-  </a>
-</div>
-
----
-
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gaudy165.Gaudy165&left_color=darkslateblue&right_color=royalblue&left_text=visitors" />
-</div>
+*Open to new opportunities as a Frontend Developer. Let's build something great together!*
